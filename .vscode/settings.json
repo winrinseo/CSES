@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "xiosbase": "cpp"
+        "xiosbase": "cpp",
+        "algorithm": "cpp",
+        "cstdlib": "cpp",
+        "iostream": "cpp"
     }
 }
